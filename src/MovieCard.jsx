@@ -1,5 +1,5 @@
 import React from 'react';
-//c56789
+//c567894
 
 const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
   return (
